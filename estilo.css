@@ -1,0 +1,53 @@
+.contenedor{
+    display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.contenido{
+   display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 300px;
+  width: 750px;
+}
+
+   
+
+.encabezado{}
+
+
+h2{
+    color: rgb(206, 106, 40);
+    font-size: 40px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-top: 20px;
+}
+
+.saludo{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 25px;
+    margin-top: 10px;
+    
+}
+.datos{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    margin-top: 10px;
+    margin :10px;
+
+}
+
+.fila{
+    margin-top :50px;
+ 
+}
+
+.descripcion{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 25px;
+    margin: 10px;
+    margin-top: 10px;
+    color: rgb(206, 106, 40);
+    
+}
